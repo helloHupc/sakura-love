@@ -135,7 +135,7 @@ export default function SakuraTextEffect() {
 
     // Custom text with format markers
     // "/" for pause, "。" for line break (neither will be displayed)
-    const rawText = "520/爱你到/。6512345"
+    const rawText = "毛毛520快乐呀。爱你1314520"
 
     // Process the raw text to create the final text with HTML and without format markers
     let finalText = ""
